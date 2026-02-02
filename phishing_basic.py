@@ -13,7 +13,7 @@ email = input("Enter email content:\n").lower()
 found = False
 for word in phishing_keywords:
     if word in email:
-        print(f" Suspicious keyword detected: {word}")
+        print(f"Suspicious keyword detected: {word}")
         found = True
 
 if found:
