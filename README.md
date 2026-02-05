@@ -69,3 +69,6 @@ All testing was performed using sample or self-created email content, and no rea
 
 ## Output Screenshots
 Screenshots of: Program execution, Phishing and legitimate email detection results are included in the output folder.
+
+## Conclusion
+This project helped me understand how real-world email security systems use rule-based logic as a first layer of phishing detection.
