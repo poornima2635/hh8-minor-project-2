@@ -1,0 +1,29 @@
+PHISHING EMAIL SAMPLES
+
+1. Urgent! Your account has been suspended.
+   Click here to verify your password immediately:
+   http://secure-login-account.com
+
+2. Dear customer,
+   Your bank account requires verification.
+   Login now to avoid service interruption:
+   http://verify-bank-login.net
+
+3. Action Required!
+   Update your account details to continue using our services.
+   Click here: http://account-update-secure.info
+
+
+
+LEGITIMATE EMAIL SAMPLES
+
+1. Hi team,
+   Please find the attached project report for your review.
+   Let me know if you have any feedback.
+
+2. Hello,
+   This is a reminder about our meeting scheduled for tomorrow at 10 AM.
+
+3. Dear student,
+   Your assignment submission deadline is next Friday.
+   Please upload it on the portal before the due date.
