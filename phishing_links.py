@@ -33,7 +33,7 @@ else:
         for word in suspicious_words:
             if word in url:
                 phishing_detected = True
-                print(f"\n⚠️ Suspicious word '{word}' found in URL")
+                print(f"\n Suspicious word '{word}' found in URL")
 
     if phishing_detected:
         print("\nResult: This email is likely PHISHING")
